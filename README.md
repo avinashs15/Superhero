@@ -2,8 +2,9 @@
 
 Cucumber BDD Framework using Webdriver.io as automation engine
 
-Tests are specified in features/superhero.feature in the form of Given, When and Then
-All the steps are in on js file now under step-definitions/steps.js
+Tests are specified in features/superhero.feature in the form of Given, When and Then.
+
+All the steps are in one js file now under step-definitions/steps.js
 
 Page definitions and functions are designed using Page object model and is specified in features/pageobjects/*.js
 
